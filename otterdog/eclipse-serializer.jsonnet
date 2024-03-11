@@ -40,9 +40,6 @@ orgs.newOrg('eclipse-serializer') {
         "serializer"
       ],
       web_commit_signoff_required: false,
-      workflows+: {
-        actions_can_approve_pull_request_reviews: false,
-      },
     },
   ],
 }
