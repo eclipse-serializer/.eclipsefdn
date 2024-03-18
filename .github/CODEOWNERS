@@ -2,4 +2,4 @@
 *             @eclipse-serializer/eclipsefdn-releng
 
 # Otterdog related configurations are also owned by the security team.
-/otterdog/**  @eclipse-serializer/eclipsefdn-security @eclipse-serializer/eclipsefdn-releng
+/otterdog/**  @eclipse-serializer/eclipsefdn-security
