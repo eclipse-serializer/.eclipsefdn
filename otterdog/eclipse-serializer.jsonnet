@@ -1,6 +1,6 @@
 local orgs = import 'vendor/otterdog-defaults/otterdog-defaults.libsonnet';
 
-orgs.newOrg('eclipse-serializer') {
+orgs.newOrg('technology.serializer', 'eclipse-serializer') {
   settings+: {
     description: "",
     name: "Eclipse Serializer",
